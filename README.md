@@ -33,11 +33,6 @@ Home Page:
 
 Google OAuth Sign in: 
 
-Create Trip Page: 
-
-View Trip Page: AI-generated Hotel Recommendations & Places to Visit 
-
-My Trips Page: 
 
 Responsive view on mobile:
 
